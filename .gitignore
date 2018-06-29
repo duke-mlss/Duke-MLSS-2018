@@ -104,3 +104,5 @@ venv.bak/
 .mypy_cache/
 checkpoints/
 MNIST_data/
+Lectures/
+*.h5
